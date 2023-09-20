@@ -1,0 +1,11 @@
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\bin\Debug\net7.0\ProductApp.Domain.deps.json
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\bin\Debug\net7.0\ProductApp.Domain.dll
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\bin\Debug\net7.0\ProductApp.Domain.pdb
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\ProductApp.Domain.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\ProductApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\ProductApp.Domain.dll
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\refint\ProductApp.Domain.dll
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\ProductApp.Domain.pdb
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Domain\obj\Debug\net7.0\ref\ProductApp.Domain.dll

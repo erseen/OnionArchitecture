@@ -1,0 +1,7 @@
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net7.0\ProductApp.WebApi.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net7.0\ProductApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net7.0\ProductApp.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net7.0\ProductApp.WebApi.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net7.0\ProductApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net7.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net7.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cache

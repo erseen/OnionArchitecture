@@ -1,0 +1,15 @@
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\bin\Debug\net7.0\ProductApp.Application.deps.json
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\bin\Debug\net7.0\ProductApp.Application.dll
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\bin\Debug\net7.0\ProductApp.Application.pdb
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\bin\Debug\net7.0\ProductApp.Domain.dll
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\bin\Debug\net7.0\ProductApp.Domain.pdb
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.csproj.AssemblyReference.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.AssemblyInfoInputs.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.AssemblyInfo.cs
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.csproj.CopyComplete
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.dll
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\refint\ProductApp.Application.dll
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ProductApp.Application.pdb
+C:\Users\Ersen\Desktop\OnionArchitectureDemo\ProductApp\src\core\ProductApp.Application\obj\Debug\net7.0\ref\ProductApp.Application.dll
